@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex-flow: row;
+    padding-top: 100px;
+  }
+  
+  form {
+    margin: 20px;
+  }
+  .container-sm {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .container-xs {
+    text-align: right;
+    padding-bottom: 20px;
+  }
+  .descriptor {
+    text-align: right;
+    margin: 20px;
+  }
+  .button {
+    margin: 20px;
+  }
+  .p {
+    text-align: center;
+  }
+  
